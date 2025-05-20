@@ -35,7 +35,6 @@ Masukkan nilai siswa ke-2: 85
 Masukkan nilai siswa ke-3: 90
 Masukkan nilai siswa ke-4: 88
 Masukkan nilai siswa ke-5: 90
-
 ===== HASIL =====
 Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
 
@@ -59,7 +58,6 @@ Program ini merupakan sistem sederhana untuk membantu kasir menghitung total har
 Masukkan harga barang ke-1: 15000
 Masukkan harga barang ke-2: 27500
 Masukkan harga barang ke-3: 5000
-
 ===== TOTAL PEMBAYARAN =====
 Total harga dari 3 barang adalah: Rp47,500.00
 
@@ -92,7 +90,6 @@ Program ini dibuat untuk membantu siswa mengetahui apakah mereka **LULUS** atau 
 Masukkan nilai mata pelajaran 1: 80
 Masukkan nilai mata pelajaran 2: 70
 Masukkan nilai mata pelajaran 3: 75
-
 ===== HASIL KELULUSAN =====
 Rata-rata nilai: 75.00
 Status: LULUS
@@ -113,7 +110,6 @@ Pelanggan mendapatkan **diskon 10%** jika total belanja **lebih dari Rp500.000**
 - **Operator Aritmatika (`*`, `-`)** digunakan untuk menghitung diskon dan total bayar.
 ### Contoh Output
 Masukkan total belanja (Rp): 600000
-
 ===== STRUK PEMBAYARAN =====
 Total belanja : Rp600,000.00
 Diskon : Rp60,000.00
