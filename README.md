@@ -11,7 +11,6 @@ Program ini menggunakan **fungsi rekursif**, yaitu fungsi yang memanggil dirinya
 Masukkan angka untuk menghitung faktorial: 5
 Faktorial dari 5 adalah 120
 
-# DasarAlgoritmaDanPemrograman-BisDig
 2. ## Program: Mencari Nilai Tertinggi dari 5 Siswa
 ### Deskripsi
 Program ini digunakan untuk menerima input nilai dari 5 siswa, lalu mencari dan menampilkan:
@@ -32,7 +31,6 @@ Masukkan nilai siswa ke-5: 90
 ===== HASIL =====
 Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
 
- # DasarAlgoritmaDanPemrograman-BisDig
 3. ## Program: Menghitung Total Harga 3 Barang
 ### Deskripsi
 Program ini merupakan sistem sederhana untuk membantu kasir menghitung total harga dari 3 barang yang dibeli oleh pelanggan.
@@ -50,8 +48,6 @@ Masukkan harga barang ke-3: 5000
 
 ===== TOTAL PEMBAYARAN =====
 Total harga dari 3 barang adalah: Rp47,500.00
-
-# DasarAlgoritmaDanPemrograman-BisDig
 
 4. ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
 ### Deskripsi
@@ -77,7 +73,6 @@ Masukkan nilai mata pelajaran 3: 75
 Rata-rata nilai: 75.00
 Status: LULUS
 
-# DasarAlgoritmaDanPemrograman-BisDig
 5. ## Program: Diskon 10% Jika Belanja > Rp500.000
 ### Deskripsi
 Program ini digunakan dalam sistem e-commerce untuk menghitung total bayar pelanggan setelah diskon.  
