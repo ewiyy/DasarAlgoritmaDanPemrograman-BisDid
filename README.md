@@ -10,6 +10,14 @@ Program ini menggunakan **fungsi rekursif**, yaitu fungsi yang memanggil dirinya
 ### Contoh Output
 Masukkan angka untuk menghitung faktorial: 5
 Faktorial dari 5 adalah 120
+### Struktur File
+- `faktorial.py` : Berisi kode Python untuk menghitung faktorial.
+- `README.md` : Penjelasan tentang program dan cara kerjanya.
+### Cara Menjalankan
+1. Pastikan Python sudah terinstal.
+2. Jalankan program dengan perintah:
+   ```bash
+   python faktorial.py
 
 2. ## Program: Mencari Nilai Tertinggi dari 5 Siswa
 ### Deskripsi
@@ -31,6 +39,12 @@ Masukkan nilai siswa ke-5: 90
 ===== HASIL =====
 Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
 
+### Cara Menjalankan Program
+1. Pastikan Python terinstal.
+2. Jalankan perintah:
+   ```bash
+   python nilai_tertinggi.py
+
 3. ## Program: Menghitung Total Harga 3 Barang
 ### Deskripsi
 Program ini merupakan sistem sederhana untuk membantu kasir menghitung total harga dari 3 barang yang dibeli oleh pelanggan.
@@ -48,6 +62,16 @@ Masukkan harga barang ke-3: 5000
 
 ===== TOTAL PEMBAYARAN =====
 Total harga dari 3 barang adalah: Rp47,500.00
+
+### Fitur Program
+- Validasi input angka
+- Format output dengan dua desimal dan tanda ribuan
+
+### Cara Menjalankan
+1. Pastikan Python telah diinstal di komputer Anda.
+2. Jalankan perintah:
+   ```bash
+   python total_harga.py
 
 4. ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
 ### Deskripsi
@@ -73,6 +97,12 @@ Masukkan nilai mata pelajaran 3: 75
 Rata-rata nilai: 75.00
 Status: LULUS
 
+### Cara Menjalankan
+1. Pastikan Python sudah terinstal.
+2. Jalankan dengan perintah:
+   ```bash
+   python kelulusan.py
+
 5. ## Program: Diskon 10% Jika Belanja > Rp500.000
 ### Deskripsi
 Program ini digunakan dalam sistem e-commerce untuk menghitung total bayar pelanggan setelah diskon.  
@@ -88,5 +118,12 @@ Masukkan total belanja (Rp): 600000
 Total belanja : Rp600,000.00
 Diskon : Rp60,000.00
 Total bayar : Rp540,000.00
+
+### Cara Menjalankan
+1. Pastikan Python telah terinstal di komputer Anda.
+2. Jalankan perintah:
+   ```bash
+   python diskon_ecommerce.py
+
 
 
