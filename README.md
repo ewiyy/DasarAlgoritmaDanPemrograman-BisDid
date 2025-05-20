@@ -17,13 +17,3 @@ Faktorial dari 5 adalah 120
 2. Jalankan program dengan perintah:
    ```bash
    python faktorial.py
-
-
-   
-   
-
-
-
-
-
-
